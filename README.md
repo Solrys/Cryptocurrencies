@@ -11,3 +11,7 @@ Before I begin,  I consider the following questions:
 * Can I quickly hand off this data for others to use?
 * What is the best way to cluster the data?
 * What is the best way to visualize my results. 
+
+In order to complete this project, I am performing unsupervised machine learning functions on data provided CryptoCompare. 
+
+
