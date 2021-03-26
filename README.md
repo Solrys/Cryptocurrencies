@@ -17,5 +17,8 @@ In order to complete this project, I am performing unsupervised machine learning
 
 ## Results
 
+
 ## Visualizing Cryptocurrencies
+3D scatter plot using Plotly Express to plot the clusters. We were able to identify 4 Clusters as determined by the elbow curve. 
+
 
