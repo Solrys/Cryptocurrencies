@@ -15,3 +15,7 @@ Before I begin,  I consider the following questions:
 In order to complete this project, I am performing unsupervised machine learning functions on data provided CryptoCompare. 
 
 
+## Results
+
+# Visualizing CRYPTOCURENCIES
+
