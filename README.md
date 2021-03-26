@@ -17,5 +17,5 @@ In order to complete this project, I am performing unsupervised machine learning
 
 ## Results
 
-# Visualizing CRYPTOCURENCIES
+## Visualizing Cryptocurrencies
 
